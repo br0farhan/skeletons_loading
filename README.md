@@ -1,16 +1,32 @@
-# skeletons_loading
+# CATATAN TENTANG SKELETON LOADING
+[![F|](https://i.postimg.cc/6qFPD0bv/logo.png)](https://www.linkedin.com/in/br0farhan/)
 
-A new Flutter project.
 
-## Getting Started
+## Akun Saya
 
-This project is a starting point for a Flutter application.
+Jika ingin kolabarosi dan menambah pertemanan saya sangat terbuka untuk itu.
 
-A few resources to get you started if this is your first Flutter project:
+| Sosmed | Akun |
+| ------ | ------ |
+| Facebook | [br0Farhan][PlDb] |
+| Instagram | [br0Farhan][PlGh] |
+| Twitter | [br0Farhan][PlGd] |
+| Linkedin | [br0Farhan][PlOd] |
+| Showwcase | [br0Farhan][PlMe] |
+| Website | [br0Farhan][PlGa] |
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+By
+
+**Farhan Martiyansyah**
+
+[//]: # (These are reference links used in the body of this note and get stripped out when the markdown processor does its job. There is no need to format nicely because it shouldn't be seen. Thanks SO - http://stackoverflow.com/questions/4823468/store-comments-in-markdown-syntax)
+
+
+   [PlDb]: <https://www.facebook.com/MyHansyah/>
+   [PlGh]: <https://www.instagram.com/syahhaans/>
+   [PlGd]: <https://twitter.com/br0farhan>
+   [PlOd]: <https://www.linkedin.com/in/br0farhan>
+   [PlMe]: <https://www.showwcase.com/br0farhan>
+   [PlGa]: <https://farhanm.com/>
