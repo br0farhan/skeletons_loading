@@ -1,6 +1,10 @@
 # CATATAN TENTANG SKELETON LOADING
 [![F|](https://i.postimg.cc/6qFPD0bv/logo.png)](https://www.linkedin.com/in/br0farhan/)
 
+#SCREENSHOOT
+![Image 1](https://github.com/br0farhan/Dart/assets/43510196/8ea6cdc5-cd1c-43d8-837b-fa016b34312d)
+
+
 
 ## Akun Saya
 
