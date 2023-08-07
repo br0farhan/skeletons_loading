@@ -18,7 +18,6 @@ Jika ingin kolabarosi dan menambah pertemanan saya sangat terbuka untuk itu.
 | Twitter | [br0Farhan][PlGd] |
 | Linkedin | [br0Farhan][PlOd] |
 | Showwcase | [br0Farhan][PlMe] |
-| Website | [br0Farhan][PlGa] |
 
 
 
